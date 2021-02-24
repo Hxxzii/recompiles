@@ -1,4 +1,6 @@
-Source code licensing is dependent and restricted on the corresponding application being recompiled.
+All recompiles or redistributions found in this repository DO comply with the corresponding source code licensing.
+
+Source code licensing is found on the corresponding application or repository being recompiled or otherwise redistributed.
 
 Redistribution binary (referring to distributions from the 'Releases' page of this repository) licensing depends on the following statement, if applicable:
 you may redistribute ANY of the recompiles freely.

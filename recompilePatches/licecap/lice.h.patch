@@ -1,0 +1,11 @@
+--- licecap/WDL/lice/lice.h
++++ licecap/WDL/lice/lice.h
+@@ -33,7 +33,7 @@
+ 
+ 
+ // one of these can be defined in your project if you choose:
+-//#define LICE_FAVOR_SPEED // optimizes some stuff that doesnt seem to benefit much (like LICE_DeltaBlit/LICE_RotatedBlit/LICE_TransformBlit)
++#define LICE_FAVOR_SPEED // optimizes some stuff that doesnt seem to benefit much (like LICE_DeltaBlit/LICE_RotatedBlit/LICE_TransformBlit)
+ // (nothing) default probably good overall
+ //#define LICE_FAVOR_SIZE // reduces code size of normal/scaled blit functions
+ //#define LICE_FAVOR_SIZE_EXTREME // same as LICE_FAVOR_SIZE w/ smaller gains with bigger perf penalties (solid fills etc)
