@@ -1,6 +1,6 @@
 ## This is a collection of open-source programs that I normally use, but recompiled with optimizations, additional instruction sets, or if the current distribution is extremely behind the latest commit
 
-## For licensing concerns, please see [LICENSE.md]
+## For licensing concerns, please see [LICENSE.md](LICENSE.md)
 
 | Program | Recompile Download | Original Source Code | Original Program Website | Commit | Patches | Optimization |
 | - | - | - | - | - | - | - |
