@@ -9,4 +9,4 @@ If the "freely" clause does not apply due to your current jurisdiction unable of
 is available "as-is" with no warranty at all, and no claim, damage, or other liability in the event of any conflict or action which 
 occurs relating to the applicable redistribution, under the claiming entity: 
 
-Copyright © 2021 Hanz Badua (Hxxzii) <hxxzii@protonmail.com> 
+Copyright © 2021 Hanz Badua (hanzBadua) <hanzb@keemail.me>
